@@ -10,7 +10,7 @@ We created a book called "Arduino Memo" but it has not been finished yet (alread
 
 ![Arduino Memo book cover](1AM.png)
 
-In this book we compile a lot of sensors and modules that can be useful to train our brain to solve daily problems with Arduino, like Relay to switch on or off a lamp with few configuration (if someone is in the room -> turn on the light for 10 minutes), another example is TDS water sensor that can help us measure the water contamination. Worry not, I got MQ-7 and MQ-135 in this book too, this one is really useful knowing the earth is in the brink of catasthrophe and destruction due to global warming and pollution.
+In this book we compile a lot of sensors and modules that can be useful to train our brain to solve daily problems with Arduino, like Relay to switch on or off a lamp with few configuration (if someone is in the room -> turn on the light for 10 minutes), another example is TDS water sensor that can help us measure the water contamination. Worry not, We got MQ-7 and MQ-135 in this book too, this one is really useful knowing the earth is in the brink of catasthrophe and destruction due to global warming and pollution.
 
 ![TDS water sensor](2AM.png)
 
