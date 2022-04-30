@@ -1,12 +1,12 @@
-# ArduinoMemo
+# What Inside Arduino Memo Repository?
 This repository contains Arduino Uno' sketch/ino files and Fritzing files for circuit schematic, the guide and tutorial for how to play with Arduino and its sensors, all this files explanation and how to arrange the circuit is in the ArduinoMemo book that will be released as soon as possible.
 
 Made by Glanz and Freya from Valhalla with Love this project is started in November 2021 and postponed recently since March 2022. Till date (April 30th 2022) we are not playing with Arduino Uno because we are focusing on writing science books and polishing GFreya OS with STEM software (VTK, Bullet, Paraview, OpenFOAM, BLAS-LAPACK-ARPACK, Eigen, ODE, Julia, etc).
 
 
-# ArduinoMemo Book
+# Arduino Memo Book
 
-We created a book called "ArduinoMemo" but it has not been finished yet (already 618 pages) we want to edit and revise it, hopefully in 2022 it can be published for free.
+We created a book called "Arduino Memo" but it has not been finished yet (already 618 pages) we want to edit and revise it, hopefully in 2022 it can be published for free.
 
 ![Arduino Memo book cover](1AM.png)
 
