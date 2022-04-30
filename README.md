@@ -2,7 +2,7 @@
 Arduino Uno ino files and Fritzing for circuit schematic
 
 Made by Glanz and Freya from Valhalla with Love
-this project is started in November 2021 and postpone recently since March 2022 we are not playing with Arduino Uno 
+this project is started in November 2021 and postponed recently since March 2022 we are not playing with Arduino Uno 
 because we are focusing on writing science books and polishing GFreya OS with STEM software (VTK, Bullet, Paraview, OpenFOAM, BLAS-LAPACK-ARPACK, Eigen, ODE, Julia, etc).
 
 # To-Do Lists
