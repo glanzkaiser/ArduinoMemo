@@ -5,6 +5,9 @@ Made by Glanz and Freya from Valhalla with Love
 this project is started in November 2021 and postponed recently since March 2022 we are not playing with Arduino Uno 
 because we are focusing on writing science books and polishing GFreya OS with STEM software (VTK, Bullet, Paraview, OpenFOAM, BLAS-LAPACK-ARPACK, Eigen, ODE, Julia, etc).
 
+# Last Arduino Project
+MAX4466
+
 # To-Do Lists
 1. Focus finish MAX4466 with FFT example and Notes and Chord detector for violin or human voice
 2. Solve the problem of Multiplexer Address that can't be found 
@@ -16,6 +19,7 @@ because we are focusing on writing science books and polishing GFreya OS with ST
 8. Try Formula F18G -> Done, need to control with A3 analog input joystick (what can replace analog steering wheel?)
 9. Try Snake game on LCD I2C 20x4 with Rotary Encoder
 10. Stepper Motor need power supply adapter 5V
+11. Lithium Battery is out of power can't bring Arduino outside, needs to learn to charge it with solar energy
 
 # Some useful information
 BMP280 address 0x77
