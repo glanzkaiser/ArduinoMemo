@@ -1,9 +1,7 @@
 # ArduinoMemo
-Arduino Uno ino files and Fritzing for circuit schematic
+This repository contains Arduino Uno' sketch/ino files and Fritzing files for circuit schematic, the guide and tutorial for how to play with Arduino and its sensors, all this files explanation and how to arrange the circuit is in the ArduinoMemo book that will be released as soon as possible.
 
-Made by Glanz and Freya from Valhalla with Love
-this project is started in November 2021 and postponed recently since March 2022 we are not playing with Arduino Uno 
-because we are focusing on writing science books and polishing GFreya OS with STEM software (VTK, Bullet, Paraview, OpenFOAM, BLAS-LAPACK-ARPACK, Eigen, ODE, Julia, etc).
+Made by Glanz and Freya from Valhalla with Love this project is started in November 2021 and postponed recently since March 2022. Till date (April 30th 2022) we are not playing with Arduino Uno because we are focusing on writing science books and polishing GFreya OS with STEM software (VTK, Bullet, Paraview, OpenFOAM, BLAS-LAPACK-ARPACK, Eigen, ODE, Julia, etc).
 
 
 # ArduinoMemo Book
@@ -12,7 +10,7 @@ We created a book called "ArduinoMemo" but it has not been finished yet (already
 
 ![Arduino Memo book cover](1AM.png)
 
-In this book we compile a lot of sensors and modules that can be useful to train our brain to solve daily problems with Arduino, like Relay to switch on or off a lamp with few configuration (if someone is in the room -> turn on the light for 10 minutes), another example is TDS water sensor that can help us measure the water contamination.
+In this book we compile a lot of sensors and modules that can be useful to train our brain to solve daily problems with Arduino, like Relay to switch on or off a lamp with few configuration (if someone is in the room -> turn on the light for 10 minutes), another example is TDS water sensor that can help us measure the water contamination. Worry not, I got MQ-7 and MQ-135 in this book too, this one is really useful knowing the earth is in the brink of collapse due to global warming and pollution.
 
 ![TDS water sensor](2AM.png)
 
