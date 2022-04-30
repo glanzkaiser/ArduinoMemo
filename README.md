@@ -5,6 +5,18 @@ Made by Glanz and Freya from Valhalla with Love
 this project is started in November 2021 and postponed recently since March 2022 we are not playing with Arduino Uno 
 because we are focusing on writing science books and polishing GFreya OS with STEM software (VTK, Bullet, Paraview, OpenFOAM, BLAS-LAPACK-ARPACK, Eigen, ODE, Julia, etc).
 
+
+# ArduinoMemo Book
+
+We created a book called "ArduinoMemo" but it has not been finished yet (already 618 pages) we want to edit and revise it, hopefully in 2022 it can be published for free.
+
+![Arduino Memo book cover](1AM.png)
+
+In this book we compile a lot of sensors and modules that can be useful to train our brain to solve daily problems with Arduino, like Relay to switch on or off a lamp with few configuration (if someone is in the room -> turn on the light for 10 minutes), another example is TDS water sensor that can help us measure the water contamination.
+
+![TDS water sensor](2AM.png)
+
+
 # Last Arduino Project
 MAX4466
 
