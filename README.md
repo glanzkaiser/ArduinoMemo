@@ -1,4 +1,4 @@
-# What Inside Arduino Memo Repository?
+# What Are Inside Arduino Memo Repository?
 This repository contains Arduino Uno' sketch/ino files and Fritzing files for circuit schematic, the guide and tutorial for how to play with Arduino and its sensors, all this files explanation and how to arrange the circuit is in the ArduinoMemo book that will be released as soon as possible.
 
 Made by Glanz and Freya from Valhalla with Love this project is started in November 2021 and postponed recently since March 2022. Till date (April 30th 2022) we are not playing with Arduino Uno because we are focusing on writing science books and polishing GFreya OS with STEM software (VTK, Bullet, Paraview, OpenFOAM, BLAS-LAPACK-ARPACK, Eigen, ODE, Julia, etc).
@@ -39,3 +39,13 @@ Ask PCB printing manufacturer in Bandung:
 Single layer 3 days finish IDR 250/cm
 Double layer 7 days finish IDR 725/cm
 Use Proteus / pdf
+
+# Link to Finish To-Do Lists
+https://learn.sparkfun.com/tutorials/pcb-basics
+https://create.arduino.cc/projecthub/abhilashpatel121/arduino-music-notes-and-chord-detector-728b14?ref=search&ref_id=max4466&offset=4
+https://makersportal.com/blog/2020/5/26/capacitive-soil-moisture-calibration-with-arduino
+https://create.arduino.cc/projecthub/igorF2/solar-charged-battery-powered-arduino-uno-645d89?ref=similar&ref_id=72341&offset=3
+https://create.arduino.cc/projecthub/andriy-baranov/arduino-4wd-rc-car-639953?ref=search&ref_id=funduino%20joystick&offset=0
+https://github.com/HRGiri/record-audio-with-arduino
+https://blog.yavilevich.com/2016/08/arduino-sound-level-meter-and-spectrum-analyzer/
+https://www.best-microcontroller-projects.com/tp4056.html
