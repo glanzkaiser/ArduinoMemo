@@ -40,9 +40,10 @@ MAX4466
     SSD1306 Address 0x3C
 
 Ask PCB printing manufacturer in Bandung:
-        Single layer 3 days finish IDR 250/cm
-        Double layer 7 days finish IDR 725/cm
-        * Use Proteus / pdf
+
+    Single layer 3 days finish IDR 250/cm
+    Double layer 7 days finish IDR 725/cm
+    * Use Proteus / pdf
 
 # Link to Finish To-Do Lists
 https://learn.sparkfun.com/tutorials/pcb-basics
