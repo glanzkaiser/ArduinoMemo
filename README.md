@@ -47,10 +47,17 @@ Ask PCB printing manufacturer in Bandung:
 
 # Link to Finish To-Do Lists
 https://learn.sparkfun.com/tutorials/pcb-basics
+
 https://create.arduino.cc/projecthub/abhilashpatel121/arduino-music-notes-and-chord-detector-728b14?ref=search&ref_id=max4466&offset=4
+
 https://makersportal.com/blog/2020/5/26/capacitive-soil-moisture-calibration-with-arduino
+
 https://create.arduino.cc/projecthub/igorF2/solar-charged-battery-powered-arduino-uno-645d89?ref=similar&ref_id=72341&offset=3
+
 https://create.arduino.cc/projecthub/andriy-baranov/arduino-4wd-rc-car-639953?ref=search&ref_id=funduino%20joystick&offset=0
+
 https://github.com/HRGiri/record-audio-with-arduino
+
 https://blog.yavilevich.com/2016/08/arduino-sound-level-meter-and-spectrum-analyzer/
+
 https://www.best-microcontroller-projects.com/tp4056.html
