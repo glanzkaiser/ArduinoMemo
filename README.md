@@ -35,8 +35,9 @@ MAX4466
 11. Lithium Battery is out of power can't bring Arduino outside, needs to learn to charge it with solar energy
 
 # Some useful information
-BMP280 address 0x77
-SSD1306 Address 0x3C
+    
+    BMP280 address 0x77
+    SSD1306 Address 0x3C
 
 Ask PCB printing manufacturer in Bandung:
 Single layer 3 days finish IDR 250/cm
