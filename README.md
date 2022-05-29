@@ -6,7 +6,7 @@ Made by Glanz and Freya from Valhalla with Love this project is started in Novem
 
 # Arduino Memo Book
 
-We created a book called "Arduino Memo" but it has not been finished yet (already 618 pages) we want to edit and revise it, hopefully in 2022 it can be published for free.
+We created a book called "Arduino Memo" but it has not been finished yet (already 618 pages) we want to edit and revise it, hopefully in 2022 it can be finished for version 1.8.
 
 ![Arduino Memo book cover](1AM.png)
 
@@ -14,6 +14,9 @@ In this book we compile a lot of sensors and modules that can be useful to train
 
 ![TDS water sensor](2AM.png)
 
+The current book can be seen here (in pdf format) along with other book we made:
+
+https://drive.google.com/drive/folders/1cTMHuKRQa5sGKPLm9Ue3eF7WAq01Kvon?usp=sharing
 
 # Last Arduino Project
 MAX4466
