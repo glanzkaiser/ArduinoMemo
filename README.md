@@ -45,6 +45,23 @@ Ask PCB printing manufacturer in Bandung:
     Double layer 7 days finish IDR 725/cm
     * Use Proteus / pdf
 
+## Important
+
+### 1. How to find the value of a resistor
+
+![resistor](https://github.com/glanzkaiser/ArduinoMemo/blob/main/images/resistor.jpg)
+
+### 2. How DC motor and batteries work to create F18G prototype with Arduino
+
+![dcmotor](https://github.com/glanzkaiser/ArduinoMemo/blob/main/images/dc%20motor.png)
+
+## Ideas
+
+### 1. Roll a dice with Arduino and LEDs to play Ganz Clever
+
+![leddice](https://github.com/glanzkaiser/ArduinoMemo/blob/main/images/Roll%20LED%20dice.png)
+
+
 # Link to Finish To-Do Lists
 https://learn.sparkfun.com/tutorials/pcb-basics
 
