@@ -61,6 +61,11 @@ Ask PCB printing manufacturer in Bandung:
 
 ![leddice](https://github.com/glanzkaiser/ArduinoMemo/blob/main/images/Roll%20LED%20dice.png)
 
+### 2. Chassis for F18G + Arduino
+I really love Need For Speed Underground 2 and want my car to be the best looking car in the Vogue magazine for a car.
+Before I create a real sports car handmade with GFreya OS + Bezier Curve + Science and Engineering magic. This is the warming up
+
+![NissanSkyline](https://github.com/glanzkaiser/ArduinoMemo/blob/main/NissanSkyline1.png)
 
 # Status to Finish To-Do Lists
 
