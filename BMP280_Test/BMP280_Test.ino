@@ -34,5 +34,5 @@ void loop() {
     Serial.println(" m");                    //If you don't know it, modify it until you get your current altitude
 
     Serial.println();
-    delay(2000);
+    delay(10000);
 }

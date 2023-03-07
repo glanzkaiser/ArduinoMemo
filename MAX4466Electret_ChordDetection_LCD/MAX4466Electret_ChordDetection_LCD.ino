@@ -1,3 +1,6 @@
+#include <Wire.h> 
+#include <LiquidCrystal_I2C.h>
+
 //---------------------------------------------------------------------------//
 int  in[128];
 byte NoteV[13]={8,23,40,57,76,96,116,138,162,187,213,241,255};
@@ -5,19 +8,68 @@ float f_peaks[8]; // top 8 frequencies peaks in descending order
 //---------------------------------------------------------------------------//
 
 
+LiquidCrystal_I2C lcd(0x27,20,4); 
+byte Heart[8] = {
+0b00000,
+0b00000,
+0b01010,
+0b11111,
+0b11111,
+0b01110,
+0b00100,
+0b00000
+};
+byte Southwest[8] =
+{
+0b00000,
+0b00000,
+0b00000,
+0b00000,
+0b00000,
+0b00000,
+0b00001,
+0b00010
+};
+
+byte Northeast[8] =
+{
+0b11100,
+0b01100,
+0b10100,
+0b00000,
+0b00000,
+0b00000,
+0b00000,
+0b00000
+};
+
 void setup() {
-Serial.begin(9600);
-Serial.println("GlanzFreya Chord Detection");
-Serial.println("with MAX4466 Electret and Arduino Uno");
+   lcd.init();
+   lcd.backlight();
+   lcd.createChar(0, Heart);
+   lcd.createChar(1, Southwest);
+   lcd.createChar(2, Northeast);
+   lcd.clear();
+   lcd.print("Glanz");
+   Serial.begin(9600);
+   Serial.println("GlanzFreya Chord Detection with LCD");
+   Serial.println("with MAX4466 Electret and Arduino Uno");
 }
 
+void loop() {
+  lcd.setCursor(1, 1);
+  lcd.write(1);
+  lcd.setCursor(2, 1);
+  lcd.write(0);
+  lcd.setCursor(3, 1);
+  lcd.write(2);
+  lcd.setCursor(0, 2);
+  lcd.print("Freya");
 
-void loop() 
-{ 
   Chord_det();
-  delay(5000);
+  delay(2300);
+  
 }
-
 
 //-----------------------------Chord Detection Function----------------------------------------------//
 // Documentation on Chord_detection:https://www.instructables.com/member/abhilash_patel/instructables/
@@ -118,18 +170,42 @@ else{chord_out=' ';}
   
    a2=micros();
         k=chord;
-        if(k==0){Serial.print('C');Serial.println(chord_out);}
-        if(k==1){Serial.print('C');Serial.print('#');Serial.println(chord_out);}
-        if(k==2){Serial.print('D');Serial.println(chord_out);}
-        if(k==3){Serial.print('D');Serial.print('#');Serial.println(chord_out);}
-        if(k==4){Serial.print('E');Serial.println(chord_out);}
-        if(k==5){Serial.print('F');Serial.println(chord_out);}
-        if(k==6){Serial.print('F');Serial.print('#');Serial.println(chord_out);}
-        if(k==7){Serial.print('G');Serial.println(chord_out);}
-        if(k==8){Serial.print('G');Serial.print('#');Serial.println(chord_out);}
-        if(k==9){Serial.print('A');Serial.println(chord_out);}
-        if(k==10){Serial.print('A');Serial.print('#');Serial.println(chord_out);}
-        if(k==11){Serial.print('B');Serial.println(chord_out);}
+        if(k==0){Serial.print('C');Serial.println(chord_out);
+        lcd.setCursor(7, 3);lcd.print("C");
+        lcd.setCursor(8, 3);lcd.print(chord_out);}
+        if(k==1){Serial.print('C');Serial.print('#');Serial.println(chord_out);
+        lcd.setCursor(7, 3);lcd.print("C#");
+        lcd.setCursor(8, 3);lcd.print(chord_out);}
+        if(k==2){Serial.print('D');Serial.println(chord_out);
+        lcd.setCursor(7, 3);lcd.print("D");
+        lcd.setCursor(8, 3);lcd.print(chord_out);}
+        if(k==3){Serial.print('D');Serial.print('#');Serial.println(chord_out);
+        lcd.setCursor(7, 3);lcd.print("D#");
+        lcd.setCursor(8, 3);lcd.print(chord_out);}
+        if(k==4){Serial.print('E');Serial.println(chord_out);
+        lcd.setCursor(7, 3);lcd.print("E");
+        lcd.setCursor(8, 3);lcd.print(chord_out);}
+        if(k==5){Serial.print('F');Serial.println(chord_out);
+        lcd.setCursor(7, 3);lcd.print("F");
+        lcd.setCursor(8, 3);lcd.print(chord_out);}
+        if(k==6){Serial.print('F');Serial.print('#');Serial.println(chord_out);
+        lcd.setCursor(7, 3);lcd.print("F#");
+        lcd.setCursor(8, 3);lcd.print(chord_out);}
+        if(k==7){Serial.print('G');Serial.println(chord_out);
+        lcd.setCursor(7, 3);lcd.print("G");
+        lcd.setCursor(8, 3);lcd.print(chord_out);}
+        if(k==8){Serial.print('G');Serial.print('#');Serial.println(chord_out);
+        lcd.setCursor(7, 3);lcd.print("G#");
+        lcd.setCursor(8, 3);lcd.print(chord_out);}
+        if(k==9){Serial.print('A');Serial.println(chord_out);
+        lcd.setCursor(7, 3);lcd.print("A");
+        lcd.setCursor(8, 3);lcd.print(chord_out);}
+        if(k==10){Serial.print('A');Serial.print('#');Serial.println(chord_out);
+        lcd.setCursor(7, 3);lcd.print("A#");
+        lcd.setCursor(8, 3);lcd.print(chord_out);}
+        if(k==11){Serial.print('B');Serial.println(chord_out);
+        lcd.setCursor(7, 3);lcd.print("B");
+        lcd.setCursor(8, 3);lcd.print(chord_out);}
        }
        
 }
@@ -236,7 +312,7 @@ x=0;       // peak detection
 
 s=0;
 c=0;
-    for(int i=0;i<x;i++)             // re arraange as per magnitude
+    for(int i=0;i<x;i++)             // re-arrange as per magnitude
     {
         for(int j=c;j<x;j++)
         {

@@ -67,6 +67,16 @@ Before I create a real sports car handmade with GFreya OS + Bezier Curve + Scien
 
 ![NissanSkyline](https://github.com/glanzkaiser/ArduinoMemo/blob/main/NissanSkyline1.png)
 
+# Push Update from Local / Computer to Github
+
+```
+git add .
+git commit -m "I Love my Wife and We Write Arduino Memo together"
+git branch -M main
+git remote add origin https://github.com/glanzkaiser/ArduinoMemo.git
+git push -u origin main
+```
+
 # Status to Finish To-Do Lists
 
 | Status | Link |
