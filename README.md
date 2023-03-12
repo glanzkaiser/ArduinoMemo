@@ -49,17 +49,17 @@ Ask PCB printing manufacturer in Bandung:
 
 ### 1. How to find the value of a resistor
 
-![resistor](https://github.com/glanzkaiser/ArduinoMemo/blob/main/images/resistor.jpg)
+![resistor](https://github.com/glanzkaiser/ArduinoMemo/blob/main/images/resistor.png)
 
 ### 2. How DC motor and batteries work to create F18G prototype with Arduino
 
-![dcmotor](https://github.com/glanzkaiser/ArduinoMemo/blob/main/images/dc%20motor.png)
+![dcmotor](https://github.com/glanzkaiser/ArduinoMemo/blob/main/images/dcmotor.png)
 
 ## Ideas
 
 ### 1. Roll a dice with Arduino and LEDs to play Ganz Clever
 
-![leddice](https://github.com/glanzkaiser/ArduinoMemo/blob/main/images/Roll%20LED%20dice.png)
+![leddice](https://github.com/glanzkaiser/ArduinoMemo/blob/main/images/LEDdice.png)
 
 ### 2. Chassis for F18G + Arduino
 I really love Need For Speed Underground 2 and want my car to be the best looking car in the Vogue magazine for a car.
