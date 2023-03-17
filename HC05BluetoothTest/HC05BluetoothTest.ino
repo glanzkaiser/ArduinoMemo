@@ -1,11 +1,10 @@
 #include <SoftwareSerial.h>
-SoftwareSerial module_bluetooth(0, 1); // pin RX | TX
-
+SoftwareSerial module_bluetooth(2, 3); // pin RX | TX
+// using pin 0,1 for RX and TX resulting in stk500 error
 void setup() {
-    Serial.begin(9600); 
-    Serial.println("Input command AT:");
-    module_bluetooth.begin(38400);
-
+  Serial.begin(9600); 
+  Serial.println("Input command AT:");
+  module_bluetooth.begin(38400);
 }
 
 void loop() {
