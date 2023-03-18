@@ -1,4 +1,4 @@
-# What Are Inside Arduino Memo Repository?
+# What Inside Arduino Memo Repository?
 This repository contains Arduino Uno' sketch/ino files and Fritzing files for circuit schematic, the guide and tutorial for how to play with Arduino and its sensors, all this files explanation and how to arrange the circuit is in the ArduinoMemo book that will be released as soon as possible.
 
 Made by Glanz and Freya from Valhalla with Love this project is started in November 2021 and postponed recently since March 2022. Till date (April 30th 2022) we are not playing with Arduino Uno because we are focusing on writing science books and polishing GFreya OS with STEM software (VTK, Bullet, Paraview, OpenFOAM, BLAS-LAPACK-ARPACK, Eigen, ODE, Julia, etc).
@@ -18,8 +18,16 @@ The current book can be seen here (in pdf format) along with other book we made:
 
 https://drive.google.com/drive/folders/1cTMHuKRQa5sGKPLm9Ue3eF7WAq01Kvon?usp=sharing
 
+# Gallery of Arduino Memo
+
+| 4WD F18G | BrowniProject | 
+| ------------- | ------------- |
+| <img src="https://github.com/glanzkaiser/ArduinoMemo/blob/main/images/4WDCar.gif" width="83%"> | <img src="https://github.com/glanzkaiser/ArduinoMemo/blob/main/images/BrowniProject.gif" width="83%"> |
+| <a href="https://github.com/glanzkaiser/ArduinoMemo/blob/main/F18G_4WD_TestDrive/F18G_4WD_TestDrive.ino">Click</a> | <a href="https://github.com/glanzkaiser/ArduinoMemo/blob/main/BMP280_MQ7_MQ135_Buzzer_LCD/BMP280_MQ7_MQ135_Buzzer_LCD.ino">Click</a> |
+
+
 # Last Arduino Project
-MAX4466
+4WD F18G
 
 # To-Do Lists
 1. Focus finish MAX4466 with FFT example and Notes and Chord detector for violin or human voice
