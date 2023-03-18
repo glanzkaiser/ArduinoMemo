@@ -89,11 +89,9 @@ git push -u origin main
 
 | Status | Link |
 | -------------     | ------------- | 
-| Not yet                                   | https://learn.sparkfun.com/tutorials/pcb-basics
 | Notes working but with LCD not working    | https://create.arduino.cc/projecthub/abhilashpatel121/arduino-music-notes-and-chord-detector-728b14?ref=search&ref_id=max4466&offset=4
 | Not working for certain soil              | https://makersportal.com/blog/2020/5/26/capacitive-soil-moisture-calibration-with-arduino
 | Not yet                                   | https://create.arduino.cc/projecthub/igorF2/solar-charged-battery-powered-arduino-uno-645d89?ref=similar&ref_id=72341&offset=3
-| Modify into 2WD RC F18G                   | https://create.arduino.cc/projecthub/andriy-baranov/arduino-4wd-rc-car-639953?ref=search&ref_id=funduino%20joystick&offset=0
 | Not yet                                   | https://github.com/HRGiri/record-audio-with-arduino
 | Not yet                                   | https://blog.yavilevich.com/2016/08/arduino-sound-level-meter-and-spectrum-analyzer/
 | Not yet                                   | https://www.best-microcontroller-projects.com/tp4056.html
