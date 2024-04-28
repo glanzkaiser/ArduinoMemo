@@ -13,8 +13,8 @@
 #include <ESP8266HTTPClient.h>
 WiFiClient client;
 
-const char *ssid = "DSGAFDY";
-const char *password = "dianandi0820";
+const char *ssid = "yourSSID";
+const char *password = "yourpassword";
 
 //Web/Server address to read/write from 
 const char *host = "192.168.100.55";   //https://circuits4you.com website or IP address of server
