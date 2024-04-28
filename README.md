@@ -27,7 +27,9 @@ https://drive.google.com/drive/folders/1cTMHuKRQa5sGKPLm9Ue3eF7WAq01Kvon?usp=sha
 
 
 # Last Arduino Project
-4WD F18G
+Arduino Uno Wifi R3 ATMega328P and ESP8266 BMP280 to Localhost April 28th, 2024.
+
+4WD F18G (Bluetooth or WiFi control needs to be finished)
 
 # To-Do Lists
 1. Focus finish MAX4466 with FFT example and Notes and Chord detector for violin or human voice
@@ -95,14 +97,4 @@ git push -u origin main
 | Not yet                                   | https://github.com/HRGiri/record-audio-with-arduino
 | Not yet                                   | https://blog.yavilevich.com/2016/08/arduino-sound-level-meter-and-spectrum-analyzer/
 | Not yet                                   | https://www.best-microcontroller-projects.com/tp4056.html
-
-
-
-
-
-
-
-
-
-
 
