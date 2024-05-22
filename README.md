@@ -26,6 +26,11 @@ The current book can be seen here (in pdf format):
 | <img src="https://github.com/glanzkaiser/ArduinoMemo/blob/main/images/4WDCar.gif" width="83%"> | <img src="https://github.com/glanzkaiser/ArduinoMemo/blob/main/images/BrowniProject.gif" width="83%"> |
 | <a href="https://github.com/glanzkaiser/ArduinoMemo/blob/main/F18G_4WD_TestDrive/F18G_4WD_TestDrive.ino">Click</a> | <a href="https://github.com/glanzkaiser/ArduinoMemo/blob/main/BMP280_MQ7_MQ135_Buzzer_LCD/BMP280_MQ7_MQ135_Buzzer_LCD.ino">Click</a> |
 
+| BMP280 to MySQL database + Localhost | Control LED with Arduino Uno WiFi R3 | 
+| ------------- | ------------- |
+| <img src="https://github.com/glanzkaiser/ArduinoMemo/blob/main/images/BMP280toLocalhost.gif" width="83%"> | <img src="https://github.com/glanzkaiser/ArduinoMemo/blob/main/images/WificontrolLED.gif" width="83%"> |
+| <a href="https://github.com/glanzkaiser/ArduinoMemo/tree/main/Source%20Codes/2024/Arduino%20Uno%20Wifi%20R3%20ATMega328P%20and%20ESP8266%20BMP280%20to%20Localhost">Click</a> | <a href="https://github.com/glanzkaiser/ArduinoMemo/tree/main/Source%20Codes/2024/Arduino%20Uno%20Wifi%20R3%20Control%20LED%20with%20ESP8266%20WiFi%20and%20Localhost">Click</a> |
+
 
 # Last Arduino Project
 Arduino Uno Wifi R3 ATMega328P and ESP8266 BMP280 Control 4WD F18G Remote Car from Localhost May 22nd, 2024.
