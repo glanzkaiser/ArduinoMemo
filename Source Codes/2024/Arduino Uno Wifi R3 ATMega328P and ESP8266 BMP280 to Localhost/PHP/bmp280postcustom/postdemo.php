@@ -10,7 +10,7 @@
  
     //Get current date and time
     date_default_timezone_set('Asia/Jakarta'); 
-	$seminggu = array("Dimance","Lundi","Mardi","Mercredi","Jeudi","Vendredi","Samedi");
+	$seminggu = array("Dimanche","Lundi","Mardi","Mercredi","Jeudi","Vendredi","Samedi");
 	$hari = date("w");
 	$hari_ini = $seminggu[$hari];
     //$d = date("Y-m-d");

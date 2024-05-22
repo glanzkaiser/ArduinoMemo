@@ -17,7 +17,7 @@ In this book we compile a lot of sensors and modules that can be useful to train
 
 The current book can be seen here (in pdf format):
 
-<a href="https://drive.google.com/file/d/1lT83QpNIWMwZjPMKMXFo4skUL0ufbrAh/view?usp=drive_link">Arduino Memo Book (April 18th, 2024)</a> 
+<a href="https://drive.google.com/file/d/14zxJMayrFlP1chiH4FZfXxZx3R4-rVMf/view?usp=drive_link">Arduino Memo Book (April 18th, 2024)</a> 
 
 # Gallery of Arduino Memo
 
@@ -38,7 +38,7 @@ Arduino Uno Wifi R3 ATMega328P and ESP8266 BMP280 to Localhost April 28th, 2024.
 3. Add IC from Sparkfun
 4. Learn about PROGMEM, and its example
 5. Funduino Joystick + Servo
-6. Race Car F18G with NRF24L01
+6. Race Car F18G with NRF24L01 -> Done (Use Arduino WiFi R3 control instead of bluetooth control)
 7. Try Tetris -> Done (want to enlarge the display and better rotary control)
 8. Try Formula F18G -> Done, need to control with A3 analog input joystick (what can replace analog steering wheel?)
 9. Try Snake game on LCD I2C 20x4 with Rotary Encoder
