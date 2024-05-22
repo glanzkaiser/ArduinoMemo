@@ -17,7 +17,7 @@ In this book we compile a lot of sensors and modules that can be useful to train
 
 The current book can be seen here (in pdf format):
 
-<a href="https://drive.google.com/file/d/14zxJMayrFlP1chiH4FZfXxZx3R4-rVMf/view?usp=drive_link">Arduino Memo Book (April 18th, 2024)</a> 
+<a href="https://drive.google.com/file/d/14zxJMayrFlP1chiH4FZfXxZx3R4-rVMf/view?usp=drive_link">Arduino Memo Book (May 22nd, 2024)</a> 
 
 # Gallery of Arduino Memo
 
@@ -28,9 +28,8 @@ The current book can be seen here (in pdf format):
 
 
 # Last Arduino Project
-Arduino Uno Wifi R3 ATMega328P and ESP8266 BMP280 to Localhost April 28th, 2024.
+Arduino Uno Wifi R3 ATMega328P and ESP8266 BMP280 Control 4WD F18G Remote Car from Localhost May 22nd, 2024.
 
-4WD F18G (Bluetooth or WiFi control needs to be finished)
 
 # To-Do Lists
 1. Focus finish MAX4466 with FFT example and Notes and Chord detector for violin or human voice
