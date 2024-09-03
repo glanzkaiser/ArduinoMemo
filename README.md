@@ -17,7 +17,7 @@ In this book we compile a lot of sensors and modules that can be useful to train
 
 The current book can be seen here (in pdf format):
 
-<a href="https://drive.google.com/file/d/1KXXDDK4QFdoSasV1pXNbzY7GkLMtDRss/view?usp=drive_link">Arduino Memo Book (May 23rd, 2024)</a> 
+<a href="https://drive.google.com/file/d/1RN5I4d8O9F0Yt46OsislRbgLpVS_iZTr/view?usp=drive_link">Arduino Memo Book (May 23rd, 2024)</a> 
 
 # Gallery of Arduino Memo
 
